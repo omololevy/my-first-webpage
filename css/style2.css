@@ -1,0 +1,24 @@
+h2{
+  color:crimson;
+  font-style: italic;
+  text-align: center;
+}
+h3{
+  color: blue;
+  text-align: left;
+
+}
+p{
+  color: brown;
+  font-style: italic;
+}
+body{
+  background-color: cyan;
+}
+ol{
+  color: blueviolet;
+}
+ul{
+  color: blue;
+  font-style: italic;
+}
