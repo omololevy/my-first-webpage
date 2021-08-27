@@ -1,24 +1,34 @@
 h2{
-  color:crimson;
+  color:rgb(245, 9, 245);
   font-style: italic;
-  text-align: center;
+  text-align: left;
 }
 h3{
-  color: blue;
+  color: rgb(7, 192, 167);
   text-align: left;
 
 }
 p{
-  color: brown;
+  color: rgb(255, 230, 0);
   font-style: italic;
 }
 body{
-  background-color: cyan;
+  background-image: url(../images/good.jpg);
+  background-attachment: fixed;
+  background-size: cover;
 }
 ol{
-  color: blueviolet;
+  color: rgb(236, 214, 9);
 }
 ul{
-  color: blue;
+  color: rgb(7, 250, 230);
   font-style: italic;
+}
+img{
+  width: 150px;
+  border: 10px;
+}
+.intro {
+  font-style: italic;
+
 }
